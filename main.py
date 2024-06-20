@@ -11,7 +11,7 @@ class HashApp:
 
         self.window = tkinter.Tk()
         self.window.geometry("500x300")
-        self.window.title("hash - Pouria Shaigani")
+        self.window.title("HashThing")
         # label of file entery :
         top_label = tkinter.Label(self.window, text='Enter a file :')
         top_label.pack(pady=5)
